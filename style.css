@@ -1,0 +1,181 @@
+*{
+    margin: 0 auto;
+}
+body {
+    background-color: #000000a8;
+}
+h2 {
+    color: hotpink;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    margin: 12px;
+}
+.height {
+    height: 36px;
+    padding-top: 18px;
+}
+.fist {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+
+.col-1 {
+    width: 8.33%;
+    float: left;
+}
+
+
+.col-11 {
+    width: 91.66%;
+    float: left;
+}
+.chartreuse {
+    background: chartreuse;
+}
+.brown {
+    background: brown;
+}
+.col-2 {
+    width: 16.66%;
+    float: left;
+}
+
+.Pink {
+    background-color: pink;
+}
+
+.Crimson {
+    background-color: crimson;
+}
+
+.col-10 {
+    width: 83.33%;
+    float: left;
+}
+
+.col-3 {
+    width: 25%;
+    float: left;
+}
+
+.Red {
+    background-color: red;
+}
+
+.Salmon {
+    background-color: salmon;
+}
+
+.col-9 {
+    width: 75%;
+    float: left;
+}
+
+.Chocolate {
+    background-color: chocolate;
+}
+
+
+.col-4 {
+    width: 33.33%;
+    float: left;
+}
+
+.col-8 {
+    width: 66.66%;
+    float: left;
+}
+
+.Yellow {
+    background-color: yellow;
+}
+
+.col-5 {
+    width: 41.66%;
+    float: left;
+}
+
+.Teal {
+    background-color: teal;
+}
+
+.col-7 {
+    width: 58.33%;
+    float: left;
+}
+
+.Blue {
+    background-color: blue;
+}
+
+.Plum {
+    background-color: plum;
+}
+
+.col-6 {
+    width: 50%;
+    float: left;
+}
+
+
+
+.Tan {
+    background-color: tan;
+}
+
+.Purple {
+    background-color: purple;
+}
+
+.Misty {
+    background-color: mistyrose;
+}
+
+.Navy {
+    background-color: navy;
+}
+
+.Aquamarine {
+    background-color: aquamarine;
+}
+
+.Magenta {
+    background-color: magenta;
+}
+
+.Gold {
+    background-color: gold;
+}
+
+.Olive {
+    background-color: olive;
+}
+
+.Gray {
+    background-color: gray;
+}
+
+.Silver {
+    background-color: silver;
+}
+
+.Lavender {
+    background-color: lavender;
+}
+
+.Indigo {
+    background-color: indigo;
+}
+
+@media(max-width:760px){
+    [class|=col] {
+        width: 100%;
+
+    }
+    body{
+        background-color: black;
+    }
+}
